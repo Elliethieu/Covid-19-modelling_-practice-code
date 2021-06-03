@@ -1,5 +1,6 @@
 # Covid-19-modelling_-practice-code
-figuring out the code source of the paper "vaccinating essential workers early"
+figuring out the code source of the paper "vaccinating essential workers early"  
+the filename_play code are files that we run, based on the original files.  
 
 # Notation:   
 IHR = vector contains hospitalization rate per age group (old variant)  
