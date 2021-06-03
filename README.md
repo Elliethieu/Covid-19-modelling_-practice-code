@@ -30,4 +30,6 @@ T1, T2, T3 are respectively Phase 1, phase 2, phase 3 of the opening plan.
 
 
 
-Note: please change the file paths accordingly when you run the code. These files were pulled from my computer and hence have the absolute paths as in my computer.
+Note 1: please change the file paths accordingly when you run the code. These files were pulled from my computer and hence have the absolute paths as in my computer.
+
+Note 2: feel free to create more run_over_scen functions to add more phases, say to reflect a sudden change in R, if needed.   
