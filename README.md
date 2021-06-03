@@ -6,9 +6,9 @@ the filename_play code are files that we run, based on the original files.
 IHR = vector contains hospitalization rate per age group (old variant)  
 IFR = vector contains death rate per age group (old variant)  
 H   = vector contains vaccine hesitation rate per age group (taken from a survey)  
-vp = vaccine efficacy against serious illness (~92-94% for Pfizer/ Moderna, for either one or two doses)
-ve = vaccine efficacy against symptomatic infection 
-R  = transmission rate
+vp = vaccine efficacy against serious illness (~92-94% for Pfizer/ Moderna, for either one or two doses)  
+ve = vaccine efficacy against symptomatic infection   
+R  = transmission rate  
 
 for one dose, ve = 33 per cent protection against symptomatic infection from B.1.617.2 variant from India, and 51 per cent against B.1.1.7. variant from the U.K  
 for two doses, ve = 81 per cent protection against symptomatic infection the B.1.617.2 variant found in India, and 87 per cent against the B.1.1.7 variant from the U.K  
