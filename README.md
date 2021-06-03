@@ -10,7 +10,7 @@ H   = vector contains vaccine hesitation rate per age group
 run_over_scen_3 is our main function.   
 
 Change the number of daily vaccination for each stage:  
-In setup_ play code, in the function run_over_scen_3, for each stage, n is the number of daily vaccination. You can chnage them manually here, then run the file setup_play code again, then run figure1_play code to generate the graph.  
+In setup_ play code, in the function run_over_scen_3, for each stage, n is the number of daily vaccination. You can change them manually here, then run the file setup_play code again, then run figure1_play code to generate the graph.  
 in figure1_play code, you can set ve and vp as you wish (in both pars2 and traj_3 needed. pars was the original code, I used to see how to set up pars2)  
 
 T1, T2, T3 are respectively Phase 1, phase 2, phase 3 of the opening plan.    
